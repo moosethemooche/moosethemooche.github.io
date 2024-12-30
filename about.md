@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  About MooseTheMooche Racing
+title:  About
 ---
 
 Coming soon.
